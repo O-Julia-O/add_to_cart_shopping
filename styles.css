@@ -152,6 +152,11 @@ body {
     background: #fff;
 }
 
+.header .shopping-cart.active {
+    right: 2rem;
+    transition: .4s linear;
+}
+
 .header .shopping-cart .box {
     display: flex;
     align-items: center;
