@@ -312,6 +312,10 @@ body {
             display: inline-block;
         }
 
+        .header .search-form {
+            width: 90%;
+        }
+
         .header .navbar {
             position: absolute;
             top: 110%; right: -110%;
