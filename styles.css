@@ -320,6 +320,10 @@ body {
             border-radius: .5rem;
             background: #fff;
         }
+        .header .navbar.active {
+            right: 2rem;
+            transition: .4s linear;
+        }
 
         .header .navbar a {
             font-size: 2rem;
