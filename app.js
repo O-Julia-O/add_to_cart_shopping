@@ -63,3 +63,26 @@ let swiper = new Swiper(".products-slider", {
       },
     },
 });
+
+let swiper1 = new Swiper(".review-slider", {
+    loop: true,
+    spaceBetween: 20,
+    breakpoints: {
+      "@0.00": {
+        slidesPerView: 1,
+        
+      },
+      "@0.75": {
+        slidesPerView: 2,
+        
+      },
+      "@1.00": {
+        slidesPerView: 3,
+        
+      },
+      "@1.50": {
+        slidesPerView: 4,
+        
+      },
+    },
+});
