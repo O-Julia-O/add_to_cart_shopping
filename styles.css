@@ -294,7 +294,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(/images/photo-1713609917082-030afbbfb0a3.avif) no-repeat;
+    background: url(/images//premium_photo-1678116084010-1c4f3502c49d.avif) no-repeat;
     background-position: center;
     background-size: cover;
     padding-top: 17rem; 
@@ -307,7 +307,7 @@ section {
 }
 
 .home .content h3 {
-    color: var(--black);
+    color: #ffffff;
     font-size: 3rem;
 }
 
@@ -317,7 +317,7 @@ section {
 }
 
 .home .content p {
-    color: var(--light-color);
+    color: #ffffff;
     font-size: 1.7rem;
     padding: 1rem 0;
     line-height: 1.8rem;
